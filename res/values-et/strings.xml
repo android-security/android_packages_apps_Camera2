@@ -83,13 +83,11 @@
     <string name="flash_off" msgid="1445443413822680010">"Välguta"</string>
     <string name="unknown" msgid="3506693015896912952">"Tundmatu"</string>
     <string name="try_to_set_local_album_available_offline" msgid="2184754031896160755">"See üksus on kohalikult salvestatud ja offlainis kättesaadav."</string>
-    <string name="Import" msgid="3985447518557474672">"Impordi"</string>
     <string name="switch_photo_filmstrip" msgid="8227883354281661548">"Filmiribakuva"</string>
     <string name="please_wait" msgid="7296066089146487366">"Palun oodake"</string>
     <string name="camera_error_title" msgid="6484667504938477337">"Kaamera viga"</string>
     <string name="cannot_connect_camera" msgid="955440687597185163">"Ei saa kaameraga ühendada."</string>
     <string name="camera_disabled" msgid="8923911090533439312">"Kaamera on keelatud turvaeeskirjade tõttu."</string>
-    <string name="camera_label" msgid="6346560772074764302">"Kaamera"</string>
     <string name="video_camera_label" msgid="2899292505526427293">"Videokaamera"</string>
     <string name="wait" msgid="8600187532323801552">"Oodake ..."</string>
     <string name="no_storage" product="nosdcard" msgid="7335975356349008814">"Paigaldage USB-mäluseade enne kaamera kasutamist."</string>
@@ -177,11 +175,9 @@
     <string name="effect_backdropper_space" msgid="7935661090723068402">"Kosmoses"</string>
     <string name="effect_backdropper_sunset" msgid="45198943771777870">"Päikeseloojang"</string>
     <string name="effect_backdropper_gallery" msgid="959158844620991906">"Teie video"</string>
-    <string name="bg_replacement_message" msgid="9184270738916564608">"Pange seade käest ära."\n"Astuge korraks vaateväljast eemale."</string>
     <string name="video_snapshot_hint" msgid="18833576851372483">"Puudutage salvestamise ajal foto jäädvustamiseks."</string>
     <string name="video_recording_started" msgid="4132915454417193503">"Video salvestamine algas."</string>
     <string name="video_recording_stopped" msgid="5086919511555808580">"Video salvestamine lõppes."</string>
-    <string name="disable_video_snapshot_hint" msgid="4957723267826476079">"Kui eriefektid on sisse lülitatud, on video hetktõmmis keelatud."</string>
     <string name="clear_effects" msgid="5485339175014139481">"Nulli efektid"</string>
     <string name="effect_silly_faces" msgid="8107732405347155777">"NALJAKAD NÄOD"</string>
     <string name="effect_background" msgid="6579360207378171022">"TAUST"</string>
