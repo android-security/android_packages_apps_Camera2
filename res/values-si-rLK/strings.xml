@@ -117,7 +117,7 @@
     <string name="pref_camera_picturesize_entry_13mp" msgid="3084140665950405601">"පික්සල් 13M"</string>
     <string name="pref_camera_picturesize_entry_8mp" msgid="6497793506352769366">"පික්සල 8M"</string>
     <string name="pref_camera_picturesize_entry_5mp" msgid="8813718385379530965">"පික්සල 5M"</string>
-    <string name="pref_camera_picturesize_entry_4mp" msgid="8546276478576735924">"4M පික්සල්"</string>
+    <string name="pref_camera_picturesize_entry_4mp_wide" msgid="3338812763544573634">"4M පික්සල් (16:9)"</string>
     <string name="pref_camera_picturesize_entry_3mp" msgid="6233692859150247237">"පික්සල 3M"</string>
     <string name="pref_camera_picturesize_entry_2mp" msgid="542341433431186453">"පික්සල 2M"</string>
     <string name="pref_camera_picturesize_entry_2mp_wide" msgid="607495602129189476">"2M පික්සල් (16:9)"</string>
